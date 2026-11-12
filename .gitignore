@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+
+# Data cache (large files — don't commit)
+data/cache/
+data/raw/
+
+# Model weights (very large — don't commit)
+models/
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
