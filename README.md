@@ -66,8 +66,8 @@ Active development. Funded by [BlueDot Impact Rapid Grant — pending].
 
 ## Author
 
-[Your Name] — [Your affiliation or "Independent researcher"]
-[your-email@domain.com]
+Sherriff Abdul-Hamid — Independent researcher
+[sherriffhamid001@gmail.com]
 
 ## License
 
